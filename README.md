@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Sharmake Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from New Zealand</h3>
-
+<img align= "left" src "https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif" height="200" width="250"/>
 - 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://sharmake-ibrahim.com/](https://sharmake-ibrahim.com/)
