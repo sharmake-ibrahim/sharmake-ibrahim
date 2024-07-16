@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://sharmake-ibrahim.github.io/sharmakeibrahim.github.io/](https://sharmake-ibrahim.com/)
+- 👨‍💻 All of my projects are available at [https://sharmake-ibrahim.com/](https://sharmake-ibrahim.com/)
 
 - 💬 Ask me about **HTML5,Css, Scss,Javascript**
 
