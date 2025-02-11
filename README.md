@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sharmakeahmedibrahim@gmail.com**
 
-- 📄 Know about my experiences [sharmake-ibrahim.com](sharmake-ibrahim.com)
+- 📄 Know about my experiences [https://sharmake-ibrahim.com/](https://sharmake-ibrahim.com/)
 
 - ⚡ Fun fact **I see challenges as opportunities for growth and improvement.**
 
