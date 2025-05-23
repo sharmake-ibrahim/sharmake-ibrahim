@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Sharmake Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from New Zealand</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharmake-ibrahim](https://github.com/sharmake-ibrahim)
 
