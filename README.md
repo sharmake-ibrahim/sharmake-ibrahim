@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Sharmake</h1>
 <p>I'm a Front-End Developer with practical experience in building responsive web applications, passionate about creating tech solutions that solve real problems.</p>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackernoon.com%2Fpresenting-your-code-beautifully-fdbab9e6fb68&psig=AOvVaw37p_-1cJYg2ZGIAeaYWvTX&ust=1751206779819000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjznO-nlI4DFQAAAAAdAAAAABAE" alt="Girl in a jacket" width="500" height="100">
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
