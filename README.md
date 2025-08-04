@@ -26,7 +26,7 @@
 <li><a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7263499835855511552?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7263499835855511552%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuVTXAQTXRLeqGNq2DD1sfw%3D%3D">URL Shortening API Landing Page</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/sharmakeibrahim" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@SharmaXP" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<a target="_blank" href="[https://www.youtube.com/https://www.youtube.com/@SharmaXP](https://www.youtube.com/@SharmaXP)" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmake-ibrahim&show_icons=true&locale=en" alt="sharmake-ibrahim" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmake-ibrahim&" alt="sharmake-ibrahim" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmake-ibrahim&show_icons=true&locale=en&layout=compact" alt="sharmake-ibrahim" /></p>
