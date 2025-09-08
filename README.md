@@ -1,11 +1,10 @@
+
+
+
+
 <h1>Hi 👋, I'm Sharmake</h1>
 <p>I'm a Front-End Developer with practical experience in building responsive web applications, passionate about creating tech solutions that solve real problems.</p>
-<!-- <img src="https://i.gifer.com/2DYS.gif"  width="375" height="250">  <img src="https://i.gifer.com/DXKg.gif"  width="375" height="250"> -->
-
-<div style="display: flex; gap: 30">
-  <img src="https://i.gifer.com/7fyf.gif" width="375" height="250" alt="Left GIF">
-  <img src="https://i.gifer.com/DXKg.gif" width="375" height="250" alt="Right GIF">
-</div>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dweb%2Bdeveloper%2Bbackground&psig=AOvVaw1ZgKSxdlP8mI71dF9WjFJS&ust=1757459343368000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiS8bWkyo8DFQAAAAAdAAAAABAV"  width="375" height="250">  <img src="https://i.gifer.com/DXKg.gif"  width="375" height="250">
 
 
 <h2>🚀 Languages and Tools I Use</h2>
