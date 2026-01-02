@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Sharmake</h1>
 <h3 align="center">I’m a frontend developer aiming to become a software engineer, with a strong interest in technology and building solutions to real-world problems.</h3>
 
-- 🌱 I’m currently learning **Bachelor of Applied Information Technology**
+- 🌱 I’m currently pursuing for **a Bachelor of Applied Information Technology with specialisation in Sofware Engineering** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharmake-ibrahim](https://github.com/sharmake-ibrahim)
 
