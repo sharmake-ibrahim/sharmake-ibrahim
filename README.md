@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer Passionate About Frontend Development</h3>
 
 
-- 🌱 Currently a **Bachelor of Applied Information Technology**
+- 🌱 Currently pursuing a **Bachelor of Applied Information Technology**
 
 - 👨‍💻 All of my projects are available at [sharmake.dev](sharmake.dev)
 
