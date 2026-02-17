@@ -15,12 +15,5 @@ Outside of tech, I’m into bodybuilding. It has taught me discipline and consis
                   </p>
                   
 
-   
 
-### Badges
-<b>My GitHub Stats</b>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmake-ibrahim&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmake-ibrahim&layout=compact&theme=tokyonight)
 
