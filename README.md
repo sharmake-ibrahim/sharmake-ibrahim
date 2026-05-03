@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Sharmake Ibrahim</h1>
+ <h1 align="center">Hi 👋, I'm Sharmake Ibrahim</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
@@ -6,17 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=sharmake-ibrahim&label=Profile%20views&color=00FFFF&style=flat-square" alt="sharmake-ibrahim's profile views" />
   </a>
 </p>
-
-## 📌 About Me
-- I’m a Junior Software Engineer focused on frontend development. I enjoy building web applications that are practical and useful. I like learning by building projects and improving step by step.
-- Outside of tech, I’m into bodybuilding. It has taught me discipline and consistency, which also shape how I approach coding and personal growth.
-
-
-## 🧠 My Focus Areas
-- Front-End Development
-- Back-End Development
-- Database Management
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -54,4 +43,4 @@
 <p align="center"><a href="https://www.linkedin.com/in/sharmakeibrahim/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://sharmake.dev/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 
- -->
+
