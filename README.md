@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharmake Ibrahim</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sharmake Ibrahim</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
@@ -54,4 +54,4 @@
 <p align="center"><a href="https://www.linkedin.com/in/sharmakeibrahim/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://sharmake.dev/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 
-
+ -->
