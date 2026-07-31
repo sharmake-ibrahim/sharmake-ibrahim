@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Second-year **Bachelor of Applied Information Technology (Software Engineering)** student at **Wintec**, Hamilton, NZ — graduating 2027
+- 🎓 Second-year **Bachelor of Applied Information Technology (Software Engineering)** student at **Wintec**, Hamilton, NZ
 - 🧩 I like **owning features end-to-end** — schema design, API, and the UI that sits on top of it
 - 🎯 Looking for **Full-Stack / Junior Software Engineer** internships, part-time, or contract roles
 - ⚽ Off the keyboard: football with friends on weekends, strength training 3x/week
