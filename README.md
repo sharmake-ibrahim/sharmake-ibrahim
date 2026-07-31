@@ -1,105 +1,39 @@
 # Hi, I'm Sharmake Ibrahim 👋
 
-## Software Engineering Student | Full Stack Developer
-
-I am a second-year **Bachelor of Applied Information Technology (Software Engineering)** student at **Wintec**, passionate about developing scalable web applications, clean software architecture, and reliable database solutions.
-
-I am seeking a **Full Stack Developer / Junior Software Engineer opportunity** where I can contribute to real-world software solutions while continuously improving my skills across the entire development lifecycle — from database design and backend development to responsive user interfaces.
+**Software Engineering Student @ Wintec | Full-Stack Developer**
 
 ---
 
-## 🎓 Education
+## 👨‍💻 About Me
 
-**Bachelor of Applied Information Technology (Software Engineering)**  
-📍 Waikato Institute of Technology (Wintec)  
-
-**New Zealand Diploma in Information Technology Technical Support (Level 5)**  
-📍 Waikato Institute of Technology (Wintec)
-
----
-
-# 🛠️ Technical Skills
-
-## Programming Languages
-- TypeScript
-- JavaScript
-- Java
-- SQL
-- HTML5
-- CSS3
-
-## Frontend Development
-- React.js
-- React Router
-- Tailwind CSS
-- SCSS
-- Responsive Web Design
-- Component-Based Architecture
-- UI/UX Implementation
-
-## Backend Development
-- Node.js
-- Express.js
-- REST API Development
-- Authentication & API Integration
-
-## Databases & Data Modelling
-- Microsoft SQL Server
-- PostgreSQL
-- MySQL
-- Relational Database Design
-- Database Normalisation
-- Entity Relationship Modelling
-- SQL Queries and Constraints
-
-## APIs & Integrations
-- REST APIs
-- GitHub API
-- Anthropic Claude API
-- Third-Party API Integration
-
-## Development Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Vercel
-- Firebase
-- Trello
-- VMware
-
-## Software Engineering Practices
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Clean Code Principles
-- Version Control Workflows
-- Agile Development
-- Debugging and Problem Solving
+- 🎓 Second-year **Bachelor of Applied Information Technology (Software Engineering)** student at **Wintec**, Hamilton, NZ — graduating 2027
+- 🧩 I like **owning features end-to-end** — schema design, API, and the UI that sits on top of it
+- 🎯 Looking for **Full-Stack / Junior Software Engineer** internships, part-time, or contract roles
+- ⚽ Off the keyboard: football with friends on weekends, strength training 3x/week
 
 ---
 
-# 📚 Currently Learning
+## 🛠️ Tech Stack
 
-- Full Stack Application Development
-- Backend Architecture
-- Cloud Deployment
-- Scalable Software Design
-- Advanced Database Systems
+**Languages:** TypeScript, JavaScript, Java, SQL, HTML5, CSS3
 
----
+**Frontend:** React, React Router, Tailwind CSS, SCSS
 
-# 🌱 Interests
+**Backend:** Node.js, Express
 
-⚽ Football — Playing with friends on weekends  
-🏋️ Fitness — Strength training three times per week  
-💻 Software Engineering — Building practical solutions through technology
+**Databases:** PostgreSQL, MySQL, Microsoft SQL Server
+
+**Tools & Platforms:** Git, GitHub, VS Code, Vercel, Firebase, Trello
 
 ---
 
-# 📫 Connect With Me
+## 📚 Currently Learning
 
-- GitHub: github.com/Sharmake-Ibrahim
-- LinkedIn: Add your LinkedIn profile
-- Portfolio: Add your portfolio website
+- .NET MAUI
+- Full-stack application architecture at scale
+- Advanced database systems
+- Data Structures and Algorithms (DSA)
 
 ---
-Passionate about building scalable software solutions and continuously improving as a developer.
+
+📫 **https://sharmake-ibrahim.github.io/sharmakeibrahim.github.io/** · always open to a chat about internships or junior roles
