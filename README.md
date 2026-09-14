@@ -6,7 +6,7 @@ Software Engineer
 
 Second-year Software Engineering student at Wintec focusing on scalable web applications and robust data modelling. I solve real-world problems through clean code, structured database design, and continuous technical growth.
 
-* 🖥️  See my portfolio at [My Portfolio](http://sharmake-ibrahim.github.io/sharmakeibrahim.github.io/)
+* 🖥️  See my portfolio at [My Portfolio](http://sharmake.tech)
 * ✉️  You can contact me at [sharmakeahmedibrahim@gmail.com](mailto:sharmakeahmedibrahim@gmail.com)
 * 🧠  I'm currently learning .NET MAUI
 
